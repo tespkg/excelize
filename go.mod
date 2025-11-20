@@ -1,6 +1,6 @@
 module github.com/tespkg/excelize/v2
 
-go 1.18
+go 1.24.0
 
 require (
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826
@@ -8,10 +8,10 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/xuri/efp v0.0.0-20240408161823-9ad904a10d6d
 	github.com/xuri/nfp v0.0.0-20240318013403-ab9948c2c4a7
-	golang.org/x/crypto v0.28.0
+	golang.org/x/crypto v0.45.0
 	golang.org/x/image v0.18.0
-	golang.org/x/net v0.30.0
-	golang.org/x/text v0.19.0
+	golang.org/x/net v0.47.0
+	golang.org/x/text v0.31.0
 )
 
 require (
